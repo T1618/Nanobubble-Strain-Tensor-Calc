@@ -7,3 +7,6 @@ The repository has four files: the first and principal is the function nanobubbl
 More information on this calculation method can be found in the paper: “Facile and quantitative estimation of strain in nanobubbles of arbitrary symmetry in 2D semiconductors verified using hyperspectral nano-optical imaging” currently submitted to the Journal of Chemical Physics. 
 
 For troubleshooting and other questions please contact Tom Darlington at td2583@columbia.edu.
+
+07/08/2020
+Paper is now online.  https://doi.org/10.1063/5.0012817
